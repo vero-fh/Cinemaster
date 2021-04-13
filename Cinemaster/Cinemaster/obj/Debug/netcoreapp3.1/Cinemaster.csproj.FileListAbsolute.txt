@@ -1,0 +1,13 @@
+C:\Users\veroo\source\repos\Cinemaster\Cinemaster\bin\Debug\netcoreapp3.1\Cinemaster.exe
+C:\Users\veroo\source\repos\Cinemaster\Cinemaster\bin\Debug\netcoreapp3.1\Cinemaster.deps.json
+C:\Users\veroo\source\repos\Cinemaster\Cinemaster\bin\Debug\netcoreapp3.1\Cinemaster.runtimeconfig.json
+C:\Users\veroo\source\repos\Cinemaster\Cinemaster\bin\Debug\netcoreapp3.1\Cinemaster.runtimeconfig.dev.json
+C:\Users\veroo\source\repos\Cinemaster\Cinemaster\bin\Debug\netcoreapp3.1\Cinemaster.dll
+C:\Users\veroo\source\repos\Cinemaster\Cinemaster\bin\Debug\netcoreapp3.1\Cinemaster.pdb
+C:\Users\veroo\source\repos\Cinemaster\Cinemaster\obj\Debug\netcoreapp3.1\Cinemaster.csprojAssemblyReference.cache
+C:\Users\veroo\source\repos\Cinemaster\Cinemaster\obj\Debug\netcoreapp3.1\Cinemaster.AssemblyInfoInputs.cache
+C:\Users\veroo\source\repos\Cinemaster\Cinemaster\obj\Debug\netcoreapp3.1\Cinemaster.AssemblyInfo.cs
+C:\Users\veroo\source\repos\Cinemaster\Cinemaster\obj\Debug\netcoreapp3.1\Cinemaster.csproj.CoreCompileInputs.cache
+C:\Users\veroo\source\repos\Cinemaster\Cinemaster\obj\Debug\netcoreapp3.1\Cinemaster.dll
+C:\Users\veroo\source\repos\Cinemaster\Cinemaster\obj\Debug\netcoreapp3.1\Cinemaster.pdb
+C:\Users\veroo\source\repos\Cinemaster\Cinemaster\obj\Debug\netcoreapp3.1\Cinemaster.genruntimeconfig.cache
